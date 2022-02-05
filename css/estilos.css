@@ -42,3 +42,16 @@ body
     padding: 1em;
 
 }
+#footer{
+
+    background-color: #88F;
+    width: 70%;
+    text-align: center;
+    margin : 0 auto;
+    color: white;
+}
+#footer #pies
+{
+    width: 20px;
+     
+}
